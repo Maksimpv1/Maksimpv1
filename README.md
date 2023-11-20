@@ -1,5 +1,5 @@
 <h2 align="center"> Hello there 👋</h2>
-<h2 align="center">I'm Popov Maksim, Frontend Developer 💻</h2>
+<h2 align="center">I'm Maksim Popov, Frontend Developer 💻</h2>
 
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="center">
