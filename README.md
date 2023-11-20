@@ -1,5 +1,8 @@
-<h2 align="center"> Hello there 👋</h2>
-<h2 align="center">I'm Maksim Popov, Frontend Developer 💻</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Maksim+Popov;I'm+Frontend+Developer;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="center">
@@ -12,17 +15,3 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-<!--
-**Maksimpv1/Maksimpv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
